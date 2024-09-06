@@ -1210,7 +1210,7 @@
       "axis_lock_hz":                  2
    },
    "5inch-6S-2306.5-1860kv-nerdCopter-SourceOnev5":{
-      "preset_note":                   "SourceOne v5. Props-out. FoxeerF722v4 ICM42688P: nerdCopter's best flying qaud. Makes use of a single narrow Dynamic Gyro Notch and single narrow Dynamic D Notch. <a href='https://www.thingiverse.com/thing:6084713' target='_blank'>SourceOne v5 3D-print collection.</a><br/><br/>mixer CUSTOM<br/>mmix 0  1.000 -1.000  0.839  1.000<br/>mmix 1  1.000 -1.000 -0.839 -1.000<br/>mmix 2  1.000  1.000  0.839 -1.000<br/>mmix 3  1.000  1.000 -0.839  1.000<br/>set yaw_motors_reversed = OFF<br/>",
+      "preset_note":                   "SourceOne v5. Props-out. FoxeerF722v4 ICM42688P: nerdCopter's best flying qaud. Makes use of a single narrow Dynamic Gyro Notch and single narrow Dynamic D Notch. Makes use of Thrust-Linearization and Axis-Lock.<a href='https://www.thingiverse.com/thing:6084713' target='_blank'>SourceOne v5 3D-print collection.</a><br/><br/>mixer CUSTOM<br/>mmix 0  1.000 -1.000  0.839  1.000<br/>mmix 1  1.000 -1.000 -0.839 -1.000<br/>mmix 2  1.000  1.000  0.839 -1.000<br/>mmix 3  1.000  1.000 -0.839  1.000<br/>set yaw_motors_reversed = OFF<br/>",
       "build_motors":                  "AxisFlying AE2306.5 1860KV",
       "build_frame":                   "5 inch",
       "build_props":                   "5 inch",
